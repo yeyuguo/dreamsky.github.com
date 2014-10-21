@@ -10,6 +10,6 @@ $(function(){
 	// buf.push('<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"32"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin","tieba","tsohu","qq","kaixin001","xg"],"viewText":"分享到：","viewSize":"16"}};with(document)0[(getElementsByTagName("head")[0]||body).appendChild(createElement("script")).src="http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion="+~(-new Date()/36e5)];</script>');
 	$('.footer-banner').html(buf.join(''));
 	/*头部导航*/
-	$('body').append('<div class="top-banner clearfix"><div class="fl"><a href="http://www.yyyweb.com/377.html" target="_blank">&lt;&lt;8个前沿的 HTML5 & CSS3 效果【附源码下载】</a></div><div class="fr"><a href="http://www.yyyweb.com/350.html" target="_blank">Web 开发中很实用的10个效果【附源码下载】&gt;&gt;</a></div></div>');
+	
 	// $('body').append('<div class="top-banner clearfix"><div class="fl"><a href="http://www.cnblogs.com/lhb25/p/10-useful-html5-css3-effect.html" target="_blank">&lt;&lt;8个前沿的 HTML5 & CSS3 效果【附源码下载】</a></div><div class="fr"><a href="http://www.cnblogs.com/lhb25/p/10-useful-web-effect.html" target="_blank">Web 开发中很实用的10个效果【附源码下载】&gt;&gt;</a></div></div>');
 });
